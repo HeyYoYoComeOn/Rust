@@ -1,1 +1,1 @@
-D:\Code\Rust\RustSource\target\debug\RustSource.exe: D:\Code\Rust\RustSource\src\main.rs
+/Users/jacksonliu/Desktop/Learning/Rust/RustSource/target/debug/RustSource: /Users/jacksonliu/Desktop/Learning/Rust/RustSource/src/main.rs
